@@ -3,7 +3,6 @@
 - ThoughtBot https://thoughtbot.com/playbook
 - Gitlab https://about.gitlab.com/handbook/engineering/
 - Monzo https://monzo.com/blog/2018/06/29/engineering-principles/
-- SoundCloud https://docs.google.com/document/d/1XzgSKIFAZQ_eEkkz1OOMdWRDvwlNq0lr53Y2kJVRCL8/edit
 - 18F https://github.com/18F/development-guide
 - DeliveryHero https://tech.deliveryhero.com/our-reliability-manifesto/
 - Hubspot https://product.hubspot.com/blog/hubspots-engineering-values
